@@ -1,0 +1,110 @@
+.logo {
+    height: 40px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    background-color: #fdfbf1;
+    border-top: 2px solid #ffd877;
+
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.main figcaption {
+    color: #999999;
+    margin-top: 10px;
+}
+
+figure {
+    margin: 10px auto;
+}
+
+figure img {
+    width: 100%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.content p {
+    text-align: left;
+    font-size: 19px;
+
+
+
+}
+
+.content figure img {
+    border-radius: 10px;
+}
+
+.feature h4 {
+    color: #b5460f;
+    margin-bottom: 0;
+
+}
+
+.feature h3 {
+    color: #107777;
+    margin-top: 0;
+}
+
+
+.feature {
+    border-left: 1px solid #ffd877;
+
+}
+
+.featureall {
+    margin-left: 20px;
+}
+
+.linetitle p {
+    border-bottom: 1px solid #c4f3f2;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.ingredlist p {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.ingredlist ul li {
+    margin-top: 15px;
+    font-size: 19px;
+}
+
+.methodlist li {
+    font-weight: bold;
+}
+
+.link p a {
+    color: #107777;
+}
